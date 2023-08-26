@@ -1,3 +1,3 @@
-# license-hosting
-A repo for license hosting \n
-sample-license,20240824
+## license-hosting
+sample-license,20240824  
+next-license,20240302
